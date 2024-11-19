@@ -14,3 +14,4 @@ Currently, two official plugins are available:
 # ExpensetrackerHack
 # ExpensetrackerHack
 # ExpenseTracker
+# ExpenseTracker
